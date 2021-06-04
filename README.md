@@ -16,7 +16,7 @@
 
 **Problem statement : Predict the optimum number of cluster and its visually**
 
-**Data can be found at : [Data]()**
+**Data can be found at : [Data](https://bit.ly/3kXTdox)**
 
 **Youtube link :  [Youtube]()**
 
