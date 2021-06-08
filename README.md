@@ -22,6 +22,17 @@
 
 **LinkedIn Profile : [LinkedIn](https://www.linkedin.com/in/rishabhrathore)**
 
+**Task 3 : Exploratory Data Analysis - Retail**
+
+**Problem statement : Exploratory Data Analysis on Dataset "SampleSuperstore" and Find out the weak areas where you can work to make more Profit.**
+
+**Data can be found at : [Data](https://bit.ly/2TK5Xn5)**
+
+**Youtube link :  [Youtube]()**
+
+**LinkedIn Profile : [LinkedIn](https://www.linkedin.com/in/rishabhrathore)**
+
+
 
 
 
