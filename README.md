@@ -32,7 +32,7 @@
 
 **LinkedIn Profile : [LinkedIn](https://www.linkedin.com/in/rishabhrathore)**
 
-**Task 3 : Exploratory Data Analysis - Terrorism**
+**Task 4 : Exploratory Data Analysis - Terrorism**
 
 **Problem statement : Exploratory Data Analysis on Dataset "Global Terrorism" and try to find out the hot zone of terrorism..**
 
